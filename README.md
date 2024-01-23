@@ -1,5 +1,6 @@
 # text_editor_plain
 The basic text editor, by referring to the Kilo version, can be used to practice the C POSIX library.
+
 #Feature
 - Import a text file.
 - Save the file after pressing the save key.
